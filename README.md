@@ -1,4 +1,7 @@
 ### Hi there 👋
+i am hanlu.
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanluxq)
 
 <!--
 **hanluxq/hanluxq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
