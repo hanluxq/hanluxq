@@ -10,7 +10,11 @@
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 
+---
+
 I am hanlu. A graduate student of the School of Computer Science, Beijing University of Technology. Welcome to my blog([http://www.hanlu.life](http://www.hanlu.life))!
+
+---
 
 ![](https://raw.githubusercontent.com/hanluxq/hanluxq/main/assets/github-contribution-grid-snake.svg)
 
@@ -18,17 +22,4 @@ I am hanlu. A graduate student of the School of Computer Science, Beijing Univer
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanluxq)
 
-<!--
-**hanluxq/hanluxq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
